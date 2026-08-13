@@ -21,8 +21,9 @@ pip install -r requirements.txt
 ### Passo 2: Executar a aplicação
 No mesmo terminal, execute:
 ```bash
-streamlit run app.py
+python -m streamlit run app.py
 ```
+streamlit run app.py
 
 A aplicação será aberta automaticamente no navegador padrão.
 
